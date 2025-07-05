@@ -29,7 +29,7 @@ github:
   username: xiao103 # change to your GitHub username
 
 twitter:
-  username: April4s0n # change to your Twitter username
+  username: xiao_doc # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: Autime3@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/April4s0n # change to your Twitter homepage
+    - https://twitter.com/xiao_doc # change to your Twitter homepage
     - https://github.com/xiao10 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
